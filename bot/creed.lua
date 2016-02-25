@@ -236,19 +236,16 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {191772388},--Sudo users = {103365027}
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[XAKEP bot 2.3
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : @Xx_MeHdi_KinG_xX
    〰〰〰〰〰〰〰〰
-   ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+   ߔࠀ @Xx_admin1_zaq_xX
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -351,15 +348,9 @@ function create_config( )
 🔹ارسال گروه ها در فایل متنی . 
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 
-
-کانال ما : @Pro_Programing
-
-اعضای اصلی ما : 
-
-@Arsalan_Sahel  [سازنده]
-@Bad00boy_Creed [عضو اصلی ]
-@Creed_aria [عضو اصلی]
-@AmirCc_CreeD [عضو اصلی]
+سازنده:
+@Xx_MeHdi_KinG_xX
+]
 
 ]],
     help_text = [[
@@ -443,16 +434,8 @@ function create_config( )
 🔹فقط با ریپلی میتوانید از این دستور برای ای دی گرفتن شخصی استفاده کنید
 
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
+ سازنده:@Xx_MeHdi_KinG_xX
 
-
-کانال ما : @Pro_Programing
-
-اعضای اصلی ما : 
-
-@Arsalan_Sahel  [سازنده]
-@Bad00boy_Creed [عضو اصلی ]
-@Creed_aria [عضو اصلی]
-@AmirCc_CreeD [عضو اصلی]
 ]],
   }
   serialize_to_file(config, './data/config.lua')
